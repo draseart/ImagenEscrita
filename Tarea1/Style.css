@@ -5,16 +5,17 @@ body{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    
+
 }
 
 
 #cabeza{
     font-family: 'Roboto', serif;
+    margin-top: 300px;
 }
 
 #Portafolio{
-    font-family: 'Roboto', serif;    
+    font-family: 'Roboto', serif;
 }
 
 h1{
@@ -24,7 +25,7 @@ h1{
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 50px;
-    color: #ffffff
+    color: #000
 }
 h2{
     font-weight: 600;
@@ -33,29 +34,29 @@ h2{
     margin-top: 10px;
     margin-bottom: 5px;
     margin-left: 50px;
-    color: #ffffff
+    color: #000
 }
 h3{
     font-weight: 600;
     font-size: 15px;
     color: #323232;
     margin-top: 0px;
-    margin-bottom: 0px;	
+    margin-bottom: 0px;
     margin-left: 50px;
     width: 10%;
     text-align: left;
-    
+
 }
 h4{
     font-weight: 600;
     font-size: 24px;
     color: #323232;
     margin-top: 0px;
-    margin-bottom: 0px;	
+    margin-bottom: 0px;
     margin-left: 50px;
     width: 10%;
     text-align: left
-        
+
 }
 a{
     font-weight: 500;
@@ -65,7 +66,7 @@ a{
     color: #FF8C00;
 }
 a:hover{
-    color: #909090; 
+    color: #909090;
 }
 
 
@@ -74,7 +75,7 @@ a:hover{
     display: flex;
     flex-direction: row;
     justify-content: flex-start
-    margin-top: 50px;   
+    margin-top: 50px;
 }
 
 #titulo{
