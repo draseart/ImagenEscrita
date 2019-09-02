@@ -1,17 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap');
 
 body{
-    background="https://github.com/draseart/ImagenEscrita/blob/gh-pages/Tarea1/BG.jpg?raw=true";
-    background-repeat: no-repeat;
-    background-position: left top;
-    background-size: 100%, auto;
+
 
 }
 
 
 #cabeza{
     font-family: 'Roboto', serif;
-    margin-top: 380px;
+    margin-top: 5px;
 }
 
 #Portafolio{
